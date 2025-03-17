@@ -1,4 +1,4 @@
-Store Rating Management
+**Store Rating Management**
 
 *Overview
 
@@ -18,15 +18,15 @@ Store Rating Management
 
 *Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+->Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
+->Backend: Node.js, Express.js
 
-Database: PostgreSQL
+->Database: PostgreSQL
 
-Authentication: JWT (JSON Web Token)
+->Authentication: JWT (JSON Web Token)
 
-Deployment: Docker (Optional)
+->Deployment: Docker (Optional)
 
 *Installation
 
