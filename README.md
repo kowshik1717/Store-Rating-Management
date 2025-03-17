@@ -32,11 +32,11 @@
 
 Prerequisites
 
-Node.js and npm installed
+->Node.js and npm installed
 
-PostgreSQL database setup
+->PostgreSQL database setup
 
-Steps
+*Steps
 
 Clone the repository:
 
@@ -45,34 +45,34 @@ cd Store-Rating-Management
 
 Install dependencies:
 
-npm install
+->npm install
 
-Set up environment variables:
+*Set up environment variables:
 
-Create a .env file and add the required configurations (PostgreSQL connection URL, JWT Secret, etc.)
+->Create a .env file and add the required configurations (PostgreSQL connection URL, JWT Secret, etc.)
 
-Start the server:
+*Start the server:
 
-npm start
+->npm start
 
 *Usage
 
-Register and log in as a user
+->Register and log in as a user
 
-Browse and rate stores
+->Browse and rate stores
 
-Admin can manage stores and monitor reviews
+->Admin can manage stores and monitor reviews
 
-Contributing
+*Contributing
 
-Contributions are welcome! Feel free to submit a pull request.
+->Contributions are welcome! Feel free to submit a pull request.
 
-License
+*License
 
-This project is licensed under the MIT License.
+->This project is licensed under the MIT License.
 
-Contact
+*Contact
 
-For any queries, contact Kowshik,
-Made by kowshik.
+->For any queries, contact Kowshik.<-
+
 
