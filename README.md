@@ -1,3 +1,14 @@
+**OUTPUT IMAGES**
+![SC-1](https://github.com/user-attachments/assets/94ee5f08-2baf-4d22-8cfa-fd7f5a40007b)
+![SC-2](https://github.com/user-attachments/assets/fe47b0ab-ebe6-4813-bb72-4635dbbf41da)
+![SC-3](https://github.com/user-attachments/assets/bcbd1cd6-0eb7-43a1-9d9b-bfd2a2073c9e)
+![SC-4](https://github.com/user-attachments/assets/32b923a1-1617-4abc-86de-604771f459c2)
+![SC-5](https://github.com/user-attachments/assets/12440bab-78e8-4b8c-9084-fba00d08d4cd)
+![SC-6](https://github.com/user-attachments/assets/53d7d33c-2468-445a-8ee9-04bd63dd5ccc)
+![SC-7](https://github.com/user-attachments/assets/16810b5b-f7ce-4264-9524-bcc6eaafa27d)
+
+
+
 **Store Rating Management**
 
 *Overview
